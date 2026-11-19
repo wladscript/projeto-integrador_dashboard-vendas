@@ -1,0 +1,89 @@
+Data,Produto,Categoria,Valor Unitário,Quantidade,Faturamento
+02/01/2026,Teclado,Periféricos,150,7,1050
+08/01/2026,Mouse,Periféricos,70,5,350
+15/01/2026,Placa de rede,Rede,20,5,100
+18/01/2026,Cabo USB,Cabeamento,20,20,400
+20/01/2026,Memória RAM,Componente,350,9,3150
+25/01/2026,Roteador,Rede,120,5,600
+28/01/2026,Cabo VGA,Cabeamento,15,8,120
+30/01/2026,SSD,Componente,250,5,1250
+02/02/2026,Teclado,Periféricos,150,10,1500
+08/02/2026,Mouse,Periféricos,70,15,1050
+15/02/2026,Placa de rede,Rede,20,7,140
+18/02/2026,Cabo USB,Cabeamento,20,12,240
+20/02/2026,Memória RAM,Componente,350,9,3150
+25/02/2026,Roteador,Rede,120,2,240
+28/02/2026,Cabo VGA,Cabeamento,15,10,150
+28/02/2026,SSD,Componente,250,15,3750
+02/03/2026,Teclado,Periféricos,150,18,2700
+08/03/2026,Mouse,Periféricos,70,25,1750
+15/03/2026,Placa de rede,Rede,20,4,80
+18/03/2026,Cabo USB,Cabeamento,20,19,380
+20/03/2026,Memória RAM,Componente,350,14,4900
+25/03/2026,Roteador,Rede,120,6,720
+28/03/2026,Cabo VGA,Cabeamento,15,17,255
+30/03/2026,SSD,Componente,250,6,1500
+02/04/2026,Teclado,Periféricos,150,30,4500
+08/04/2026,Mouse,Periféricos,70,29,2030
+15/04/2026,Placa de rede,Rede,20,8,160
+18/04/2026,Cabo USB,Cabeamento,20,25,500
+20/04/2026,Memória RAM,Componente,350,31,10850
+25/04/2026,Roteador,Rede,120,5,600
+28/04/2026,Cabo VGA,Cabeamento,15,8,120
+30/04/2026,SSD,Componente,250,9,2250
+02/05/2026,Teclado,Periféricos,150,25,3750
+08/05/2026,Mouse,Periféricos,70,31,2170
+15/05/2026,Placa de rede,Rede,20,3,60
+18/05/2026,Cabo USB,Cabeamento,20,19,380
+20/05/2026,Memória RAM,Componente,350,25,8750
+25/05/2026,Roteador,Rede,120,12,1440
+28/05/2026,Cabo VGA,Cabeamento,15,25,375
+30/05/2026,SSD,Componente,250,22,5500
+02/06/2026,Teclado,Periféricos,150,32,4800
+08/06/2026,Mouse,Periféricos,70,35,2450
+15/06/2026,Placa de rede,Rede,20,5,100
+18/06/2026,Cabo USB,Cabeamento,20,29,580
+20/06/2026,Memória RAM,Componente,350,32,11200
+25/06/2026,Roteador,Rede,120,10,1200
+28/06/2026,Cabo VGA,Cabeamento,15,12,180
+30/06/2026,SSD,Componente,250,18,4500
+02/07/2026,Teclado,Periféricos,150,35,5250
+08/07/2026,Mouse,Periféricos,70,40,2800
+15/07/2026,Placa de rede,Rede,20,12,240
+18/07/2026,Cabo USB,Cabeamento,20,27,540
+20/07/2026,Memória RAM,Componente,350,24,8400
+25/07/2026,Roteador,Rede,120,11,1320
+28/07/2026,Cabo VGA,Cabeamento,15,13,195
+30/07/2026,SSD,Componente,250,20,5000
+02/08/2026,Teclado,Periféricos,150,45,6750
+08/08/2026,Mouse,Periféricos,70,50,3500
+15/08/2026,Placa de rede,Rede,20,2,40
+18/08/2026,Cabo USB,Cabeamento,20,8,160
+20/08/2026,Memória RAM,Componente,350,14,4900
+25/08/2026,Roteador,Rede,120,6,720
+28/08/2026,Cabo VGA,Cabeamento,15,15,225
+30/08/2026,SSD,Componente,250,16,4000
+02/09/2026,Teclado,Periféricos,150,36,5400
+08/09/2026,Mouse,Periféricos,70,50,3500
+15/09/2026,Placa de rede,Rede,20,19,380
+18/09/2026,Cabo USB,Cabeamento,20,26,520
+20/09/2026,Memória RAM,Componente,350,39,13650
+25/09/2026,Roteador,Rede,120,9,1080
+28/09/2026,Cabo VGA,Cabeamento,15,20,300
+30/09/2026,SSD,Componente,250,19,4750
+02/10/2026,Teclado,Periféricos,150,39,5850
+08/10/2026,Mouse,Periféricos,70,45,3150
+15/10/2026,Placa de rede,Rede,20,12,240
+18/10/2026,Cabo USB,Cabeamento,20,29,580
+20/10/2026,Memória RAM,Componente,350,35,12250
+25/10/2026,Roteador,Rede,120,16,1920
+28/10/2026,Cabo VGA,Cabeamento,15,26,390
+30/10/2026,SSD,Componente,250,30,7500
+02/11/2026,Teclado,Periféricos,150,60,9000
+08/11/2026,Mouse,Periféricos,70,80,5600
+15/11/2026,Placa de rede,Rede,20,15,300
+18/11/2026,Cabo USB,Cabeamento,20,45,900
+20/11/2026,Memória RAM,Componente,350,50,17500
+25/11/2026,Roteador,Rede,120,21,2520
+28/11/2026,Cabo VGA,Cabeamento,15,27,405
+30/11/2026,SSD,Componente,250,40,10000
